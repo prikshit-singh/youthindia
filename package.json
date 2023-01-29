@@ -1,6 +1,6 @@
 {
   "name": "lazy_assignment",
-  "homepage": "https://prikshit-singh.github.io/assignment1",
+  "homepage": "https://prikshit-singh.github.io/youthindia",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -9,12 +9,13 @@
     "@testing-library/user-event": "^13.5.0",
     "ag-grid-community": "^29.0.0",
     "ag-grid-react": "^29.0.0",
+    "gh-pages": "^5.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-icons": "^4.7.1",
     "react-infinite-scroll-component": "^6.1.0",
     "react-router-dom": "^6.7.0",
-    "react-scripts": "5.0.1",
+    "react-scripts": "^2.1.3",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
@@ -42,8 +43,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "devDependencies": {
-    "gh-pages": "^5.0.0"
   }
 }

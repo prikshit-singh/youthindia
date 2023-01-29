@@ -18,7 +18,7 @@ function App() {
     <Navbar/>
     <Suspense fallback={<p> Loading...</p>}>
       <Routes>
-        <Route path="/" element={<Home />} />
+        <Route path="/*" element={<Home />} />
         <Route path="lazyload" element={<Lazy_load />} />
         
       </Routes>
